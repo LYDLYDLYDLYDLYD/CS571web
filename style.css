@@ -1,0 +1,57 @@
+<style>
+
+body{
+    width: 700px;
+    margin:  auto;
+
+}
+
+.bigTitle{
+    font-family: Georgia, 'Times New Roman',Times,serif;
+    border: 1.8px solid black;
+    height:118px;
+    width:620px;
+    margin: 38px auto 100px auto;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 90px;
+}
+.pic{
+    
+    text-align: center;
+    margin: 8px;
+    
+    
+}
+img{
+    width:700px;
+    height:700px;
+    object-fit: cover;
+    vertical-align: middle;
+    
+}
+a {text-decoration: none;
+    color:rgb(62, 61, 61);
+}
+.bigTitle .link-a{
+    font-size:10px;
+    text-align:center;
+    font-style:italic;
+}
+
+.bigTitle .link-a :hover{
+    color:black;
+}
+.icon{
+    width:15px;
+    height:15px;
+    margin:8px;
+}
+.link-a a {   
+    color:grey;
+}
+a.first-a {   
+    color:black;
+}
+
+</style>
